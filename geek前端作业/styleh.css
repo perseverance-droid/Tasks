@@ -1,0 +1,41 @@
+ {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+ /* 页面背景换成照片（替换成你的图片路径） */
+ body {
+     /* 把 url 里的内容改成你照片的路径（本地路径或网络图片链接都可以） */
+     background-image: url("OIP-C.webp"); 
+     background-size: cover; /* 让背景图铺满整个页面 */
+     background-position: center; /* 背景图居中显示 */
+     background-attachment: fixed; /* 滚动页面时背景图固定 */
+ }
+ .nav-container {
+     width: 90%;
+     max-width: 1200px;
+     margin: 20px auto;
+     border: 2px solid #eee; /* 边框改成浅白色更百搭 */
+     background-color: rgba(255, 255, 255, 0.8); /* 导航栏半透明白色，避免和背景混淆 */
+ }
+ .nav-title {
+     padding: 20px;
+     background-color: rgba(255, 133, 162, 0.9); /* 标题栏半透明深粉 */
+     color: white;
+     font-size: 24px;
+     text-align: center;
+ }
+ .nav-links {
+     display: flex;
+     justify-content: space-around;
+     padding: 15px 0;
+ }
+ .nav-links a {
+     color: #e63950;
+     text-decoration: none;
+     font-size: 18px;
+ }
+ .nav-links a:hover {
+     color: #ff85a2;
+     text-decoration: underline;
+}
