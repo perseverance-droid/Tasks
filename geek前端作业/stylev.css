@@ -1,0 +1,134 @@
+/* 通用样式重置 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff2cc; /* 浅黄色背景，与图片风格一致 */
+  color: #333;
+}
+/* 导航栏容器 */
+ .nav-container {
+     width: 90%;
+     max-width: 1200px;
+     margin: 100px auto; /* 居中+上下间距 */
+     border: 6px solid hwb(65 2% 3%); /* 边框色（浅粉） */
+     background-color: #decf7f; /* 容器背景色（浅粉） */
+ }
+ .nav-links {
+     display: flex; /* 让链接横向排列 */
+     color: #00000000; /* 标题文字色 */
+     justify-content: space-around; /* 链接均匀分布 */
+     padding: 15px 0;
+ }
+ /* 导航链接样式 */
+ .nav-links a {
+     color: #000000; /* 链接文字色（玫红） */
+     text-decoration: none; /* 去掉下划线 */
+     font-size: 18px;}
+     .nav-links a:hover {
+     color: rgb(0, 0, 0);
+     text-decoration: underline;
+}
+.nav-title {
+     padding: 20px;
+     background-color: #fff585; /* 标题背景色（深粉） */
+     color: #00000000; /* 标题文字色 */
+     font-size: 50px;
+     text-align: center;}
+/* 头部导航样式 */
+header {
+  background-color: #ffd966; /* 导航栏背景色 */
+  padding: 10px 0;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+  background-color: #ffc200; /*  hover 时的背景色 */
+}
+
+nav ul li.active a {
+  background-color: #ffc200; /* 当前激活页面的背景色 */
+}
+
+nav ul li.login-register {
+  margin-left: auto; /* 把登录注册按钮推到最右边 */
+}
+
+/* 横幅区域样式 */
+.banner {
+  width: 100%;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.banner img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* 动漫简介区域样式 */
+.anime-intro {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.anime-intro h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+  color: #ff6600; /* 标题颜色 */
+}
+
+.intro-image {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.intro-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.anime-intro p {
+  line-height: 1.6;
+  text-align: justify;
+}
+
+/* 底部区域样式 */
+footer {
+  text-align: center;
+  margin-top: 30px;
+  padding: 10px 0;
+  background-color: #ffd966;
+}
+
+footer p {
+  margin-bottom: 5px;
+}
