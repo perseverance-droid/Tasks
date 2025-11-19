@@ -9,5 +9,5 @@
 1.[heml学习笔记](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)<br>
 2.[css学习笔记](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/CSS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)<br>
 3.[js学习笔记](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/JavaScript%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)<br>
-4.[静态网页作品链接](http://127.0.0.1:5500/demo.html)<br>
+4.[静态网页作品链接](https://perseverance-droid.github.io/New-github.io/demo.html)<br>
 5.[页面编后感](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%E9%A1%B5%E9%9D%A2%E7%BC%96%E5%90%8E%E6%84%9F.md)<br>
