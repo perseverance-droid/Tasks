@@ -1,0 +1,51 @@
+ .profile {
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     margin-bottom: 40px;
+ }
+ .profile img {
+     width: 200px;
+     height: 200px;
+     border-radius: 50%;
+     object-fit: cover;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+ }
+ .profile-info {
+     width: 60%;
+ }
+ .profile-info h3 {
+     color: #ff6666;
+     font-size: 20px;
+     margin-bottom: 10px;
+ }
+ .profile-info p {
+     margin-bottom: 10px;
+ }
+
+ .skills {
+     display: flex;
+     justify-content: space-around;
+     flex-wrap: wrap;
+ }
+ .skill-item {
+     width: 30%;
+     background-color: #ffcccc;
+     padding: 20px;
+     border-radius: 5px;
+     margin-bottom: 20px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+     height: 250px;
+ }
+ .skill-item h3 {
+     color: #ff6666;
+     font-size: 20px;
+     margin-bottom: 10px;
+ }
+ .skill-item p {
+     margin-bottom: 0;
+     display: -webkit-box;
+     -webkit-box-orient: vertical;
+     -webkit-line-clamp: 4;
+     overflow: hidden;
+ }

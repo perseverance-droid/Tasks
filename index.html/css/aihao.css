@@ -1,0 +1,44 @@
+/* 兴趣爱好列表样式 */
+ .hobby-list {
+     display: flex;
+     justify-content: space-around;
+     flex-wrap: wrap;
+ }
+ .hobby-item {
+     width: 30%;
+     background-color: #ffcccc;
+     padding: 20px;
+     border-radius: 5px;
+     margin-bottom: 20px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+     text-align: center;
+ }
+ .hobby-item img {
+     width: 100%;
+     height: 200px;
+     object-fit: cover;
+     border-radius: 5px;
+     margin-bottom: 10px;
+ }
+ .hobby-item h3 {
+     color: #ff6666;
+     font-size: 20px;
+     margin-bottom: 10px;
+ }
+ .hobby-item p {
+     margin-bottom: 0;
+ }
+ /* 生活照相册样式 */
+ .gallery {
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+     grid-gap: 20px;
+     margin-top: 40px;
+ }
+ .gallery img {
+     width: 100%;
+     height: 245px;
+     object-fit: cover;
+     border-radius: 5px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
