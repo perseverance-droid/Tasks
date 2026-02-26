@@ -19,4 +19,8 @@
 3.[demo源码](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/demo%E6%BA%90%E7%A0%81.md)<br>
 4.[Demo文档](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%E5%9B%9B%E3%80%81Demo%20README%20%E6%96%87%E6%A1%A3.md)<br>
 5.[阶段五小结](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%E4%BA%94%E3%80%81%E9%98%B6%E6%AE%B5%E4%BA%94%E5%B0%8F%E7%BB%93.md)<br>
-
+# 阶段六学习成果
+1.[network学习笔记.](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/network%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)<br>
+2.[Demo源码](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/Demo%20%E6%BA%90%E7%A0%81.md)<br>
+3.[运行说明README](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%E8%BF%90%E8%A1%8C%E8%AF%B4%E6%98%8EREADME.md)<br>
+4.[阶段六小结](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%23%20%E9%98%B6%E6%AE%B5%E5%85%AD%E5%B0%8F%E7%BB%93.md)<br>
