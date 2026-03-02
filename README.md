@@ -29,3 +29,8 @@
 2.[Gorm学习笔记](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/Gorm%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)<br>
 3.[CRUD源码](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%23%20CRUD%20%E6%BA%90%E7%A0%81.md)<br>
 4.[阶段七小结](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%E9%98%B6%E6%AE%B5%E4%B8%83%E5%B0%8F%E7%BB%93.md)<br>
+# 阶段八学习成果
+1.[Gin学习笔记](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%E4%B8%80%E3%80%81Gin%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)<br>
+2.[成员管理系统源码](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%E6%88%90%E5%91%98%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%BA%90%E7%A0%81.md)<br>
+3.[成员管理系统接口实现编后感](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%E6%88%90%E5%91%98%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3%E5%AE%9E%E7%8E%B0%E7%BC%96%E5%90%8E%E6%84%9F.md)<br>
+4.[阶段八小结](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%E9%98%B6%E6%AE%B5%E5%85%AB%E5%B0%8F%E7%BB%93.md)<br>
