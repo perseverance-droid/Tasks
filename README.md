@@ -34,3 +34,7 @@
 2.[成员管理系统源码](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%E6%88%90%E5%91%98%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%BA%90%E7%A0%81.md)<br>
 3.[成员管理系统接口实现编后感](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%E6%88%90%E5%91%98%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3%E5%AE%9E%E7%8E%B0%E7%BC%96%E5%90%8E%E6%84%9F.md)<br>
 4.[阶段八小结](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%E9%98%B6%E6%AE%B5%E5%85%AB%E5%B0%8F%E7%BB%93.md)<br>
+# 阶段九学习成果
+1.[成员管理系统部署文档](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%E6%88%90%E5%91%98%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%20Nginx%20%E9%83%A8%E7%BD%B2%E6%96%87%E6%A1%A3.md)<br>
+2.[阶段九阶段小结](https://github.com/perseverance-droid/Tasks/blob/%E9%98%B6%E6%AE%B5%E4%B8%80%E6%88%90%E6%9E%9C/%E9%98%B6%E6%AE%B5%E4%B9%9D%20%E9%98%B6%E6%AE%B5%E5%B0%8F%E7%BB%93.md)<br>
+
